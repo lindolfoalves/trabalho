@@ -1,0 +1,52 @@
+.h12{
+    display: flex;
+    margin: 50px;
+}
+
+.h12 button{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(230, 10, 46);
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+.h12 h4{
+    color: red;
+}
+.h12 img{
+    box-shadow: 50px;
+}
+
+.container-footer{
+    padding: auto;
+    background-color: black;
+    display: flex;
+}
+.container-footer .obj{
+    color: aliceblue;
+    padding: 30px 50px;
+}
+.container-footer .obj p{
+    width: 280px;
+}
+
+.copy{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: aliceblue;
+    border-top: 1px grey solid;
+}
+.abc{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 1rem;
+    padding: 10px;
+    border-top: 1px grey solid;
+    border-bottom: 3px grey solid;
+}
