@@ -7,8 +7,35 @@
 
 section {
     display: flex;
+    
 }
 
 pro .container{
+display: flex;
+justify-content:center;
+flex-direction:column;
+flex-flow: wrap;
+
+
+
+}
+
+pro .container produto2{
+display: flex;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+
+}
+
+/* section {
+    display: flex;
+    flex-direction: column;
+} */
+.container1 {
+    display: flex;
+}
+
+.container2 {
     display: flex;
 }
