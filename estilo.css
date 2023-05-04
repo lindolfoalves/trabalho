@@ -1,0 +1,98 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*AREA COLECOES */
+
+.section-colecoes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+    
+}
+
+
+.section-colecoes h3{
+   
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.section-colecoes h4{
+    font-size: 12px;
+}
+
+
+    
+
+
+
+
+.section-colecoes p{
+    font-size: 15px;
+}
+
+
+
+
+.colecoes{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    border: 20px;
+    
+ 
+
+
+    
+    
+}
+
+.colecao{
+    background-color: ;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.colecao img{
+    width: 65px;
+}
+
+.conteudo-produto h5{
+    position: sticky;
+    top: 5px;
+    left: 10px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #27b737;
+    padding: 3px 10px;
+    border-radius: 2px;
+
+
+}
+
+
+
+
+
+
+
+
+    
+   
